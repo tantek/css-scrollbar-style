@@ -10,7 +10,6 @@ Editor: Tantek Çelik, Mozilla, http://tantek.com/contact
 Editor: Rossen Atanassov, Microsoft, ratan@microsoft.com
 Abstract: CSS Scrollbar Style standardizes the ability to color scrollbars introduced in 2000 by WindowsIE5.5. This is useful when building web applications which use color schemes very different from the appearance of default platform scrollbars.
 Link Defaults: css-color-3 (property) color
-Use <i> Autolinks: yes
 </pre>
 
 <h2 id="intro">
@@ -54,7 +53,7 @@ These properties allow the author to set colors for various aspects of a scrollb
 'normal' - default platform rendering for that portion of the scrollbar, in the absence of any other 
 related scrollbar color properties. See details below for which scrollbar color are related to which.
 
-<color> - apply the color to that portion of the scrollbar, and potentially other portions of the scrollbar.
+<<color>> - apply the color to that portion of the scrollbar, and potentially other portions of the scrollbar.
 
 Details:
 
@@ -110,4 +109,3 @@ Should we use those literal value keywords as initial values for each property r
 or specify and accept both?
 
 Issue: Should inherited be "yes"? Specifying on the root affects all elements by default, but is that true at all levels?
-
