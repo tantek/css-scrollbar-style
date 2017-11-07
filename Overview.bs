@@ -8,9 +8,7 @@ Work Status: Exploring
 ED: https://drafts.csswg.org/css-scrollbar-style/
 Editor: Tantek Çelik, Mozilla, http://tantek.com/contact
 Editor: Rossen Atanassov, Microsoft, ratan@microsoft.com
-Abstract: CSS Scrollbar Style standardizes the ability to color scrollbars introduced in 2000 by WindowsIE5.5. 
-This is useful when building web applications which use color schemes very different from 
-the appearance of default platform scrollbars.
+Abstract: CSS Scrollbar Style standardizes the ability to color scrollbars introduced in 2000 by WindowsIE5.5. This is useful when building web applications which use color schemes very different from the appearance of default platform scrollbars.
 Link Defaults: css-color-3 (property) color
 Use <i> Autolinks: yes
 </pre>
