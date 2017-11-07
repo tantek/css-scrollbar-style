@@ -1,11 +1,11 @@
 <pre class='metadata'>
-Title: CSS Scrollbar Style Module Level 1
+Title: CSS Scrollbars Module Level 1
 Group: csswg
-Shortname: css-scrollbar-style
+Shortname: css-scrollbars
 Level: 1
 Status: ED
 Work Status: Exploring
-ED: https://drafts.csswg.org/css-scrollbar-style/
+ED: https://drafts.csswg.org/css-scrollbars/
 Editor: Tantek Çelik, Mozilla, http://tantek.com/contact
 Editor: Rossen Atanassov, Microsoft, ratan@microsoft.com
 Abstract: CSS Scrollbar Style standardizes the ability to color scrollbars introduced in 2000 by WindowsIE5.5. This is useful when building web applications which use color schemes very different from the appearance of default platform scrollbars.
